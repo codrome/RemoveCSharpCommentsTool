@@ -5,7 +5,7 @@
 ### Version 1.0
 
 - Basic removal of comments
-- New line handling
+- Obsolete new line removal for whole line comments 
 
 #### Known issues/limitations:
 
